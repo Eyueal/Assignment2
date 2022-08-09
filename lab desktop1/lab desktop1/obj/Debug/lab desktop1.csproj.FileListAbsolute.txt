@@ -1,0 +1,11 @@
+C:\Users\eyuea\source\repos\lab desktop1\lab desktop1\obj\Debug\lab desktop1.csproj.AssemblyReference.cache
+C:\Users\eyuea\source\repos\lab desktop1\lab desktop1\obj\Debug\lab desktop1.csproj.SuggestedBindingRedirects.cache
+C:\Users\eyuea\source\repos\lab desktop1\lab desktop1\obj\Debug\lab_desktop1.Properties.Resources.resources
+C:\Users\eyuea\source\repos\lab desktop1\lab desktop1\obj\Debug\lab desktop1.csproj.GenerateResource.cache
+C:\Users\eyuea\source\repos\lab desktop1\lab desktop1\obj\Debug\lab desktop1.csproj.CoreCompileInputs.cache
+C:\Users\eyuea\source\repos\lab desktop1\lab desktop1\bin\Debug\lab desktop1.exe.config
+C:\Users\eyuea\source\repos\lab desktop1\lab desktop1\bin\Debug\lab desktop1.exe
+C:\Users\eyuea\source\repos\lab desktop1\lab desktop1\bin\Debug\lab desktop1.pdb
+C:\Users\eyuea\source\repos\lab desktop1\lab desktop1\obj\Debug\lab desktop1.exe
+C:\Users\eyuea\source\repos\lab desktop1\lab desktop1\obj\Debug\lab desktop1.pdb
+C:\Users\eyuea\source\repos\lab desktop1\lab desktop1\obj\Debug\lab_desktop1.Form1.resources
